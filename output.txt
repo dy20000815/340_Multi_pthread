@@ -1,0 +1,22 @@
+Worker Child Pthread Number = 0: 	 Arithmetic Average = 508 	 Sum = 508009 	  Root of the Sum of Squares = 18599 
+Worker Child Pthread Number = 1: 	 Arithmetic Average = 486 	 Sum = 486907 	  Root of the Sum of Squares = 17833 
+Worker Child Pthread Number = 2: 	 Arithmetic Average = 521 	 Sum = 521449 	  Root of the Sum of Squares = 18782 
+Worker Child Pthread Number = 3: 	 Arithmetic Average = 490 	 Sum = 490151 	  Root of the Sum of Squares = 17859 
+Worker Child Pthread Number = 4: 	 Arithmetic Average = 495 	 Sum = 495773 	  Root of the Sum of Squares = 18145 
+Worker Child Pthread Number = 5: 	 Arithmetic Average = 481 	 Sum = 481717 	  Root of the Sum of Squares = 17702 
+Worker Child Pthread Number = 6: 	 Arithmetic Average = 484 	 Sum = 484492 	  Root of the Sum of Squares = 17895 
+Worker Child Pthread Number = 7: 	 Arithmetic Average = 490 	 Sum = 490235 	  Root of the Sum of Squares = 17890 
+Worker Child Pthread Number = 8: 	 Arithmetic Average = 503 	 Sum = 503143 	  Root of the Sum of Squares = 18284 
+Worker Child Pthread Number = 9: 	 Arithmetic Average = 502 	 Sum = 502164 	  Root of the Sum of Squares = 18409 
+Worker Child Pthread Number = 10: 	 Arithmetic Average = 494 	 Sum = 494606 	  Root of the Sum of Squares = 18155 
+Worker Child Pthread Number = 11: 	 Arithmetic Average = 502 	 Sum = 502141 	  Root of the Sum of Squares = 18288 
+Worker Child Pthread Number = 12: 	 Arithmetic Average = 511 	 Sum = 511327 	  Root of the Sum of Squares = 18582 
+Worker Child Pthread Number = 13: 	 Arithmetic Average = 517 	 Sum = 517807 	  Root of the Sum of Squares = 18843 
+Worker Child Pthread Number = 14: 	 Arithmetic Average = 519 	 Sum = 519031 	  Root of the Sum of Squares = 18829 
+Worker Child Pthread Number = 15: 	 Arithmetic Average = 490 	 Sum = 490545 	  Root of the Sum of Squares = 17999 
+Worker Child Pthread Number = 16: 	 Arithmetic Average = 519 	 Sum = 519457 	  Root of the Sum of Squares = 18801 
+Worker Child Pthread Number = 17: 	 Arithmetic Average = 489 	 Sum = 489683 	  Root of the Sum of Squares = 17962 
+Min of sum = 481717 
+Min of average = 481 
+Min of the root of the sum of the squares  = 17702 
+
